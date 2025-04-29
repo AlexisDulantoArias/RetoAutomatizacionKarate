@@ -146,4 +146,3 @@ Ejecutar el escenario de eliminar usuario
 #### ¿Cómo puedo ver el reporte generado por KarateDSL al ejecutar cualquier comando de prueba?
 
 Al ejecutar cualquier comando, el enlace al reporte no se adjunta automáticamente. Para acceder a él, debes revisar el archivo que se generará automáticamente en la carpeta "target/karate-reports/*.html".
->>>>>>> 24b88c4 (Subida al repositorio automatización de Karate DSL)
