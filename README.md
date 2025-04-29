@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RetoAutomatizacionKarate
 =======
 
@@ -13,7 +12,7 @@ Tener instalado Maven y Java jdk, de preferencia jdk 17 para este proyecto.
 Clonar el proyecto 💻
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AlexisDulantoArias/RetoAutomatizacionKarate
 ```
 ## Ejecutar prueba
 
